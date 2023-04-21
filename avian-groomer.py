@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # simple cleanup script, 2012-12-25 <greg@xiph.org>
 # 2018: updated by brianmct
 # 2022: updated by cdonnachie
